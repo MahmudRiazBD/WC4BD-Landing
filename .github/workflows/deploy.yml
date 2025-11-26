@@ -1,0 +1,10 @@
+# This workflow is disabled. 
+# Cloudflare Pages handles deployment automatically via Git integration.
+# 
+# To redeploy, simply push changes to the main branch.
+# Cloudflare Pages will automatically build and deploy from:
+# - Build command: npm run build
+# - Build directory: dist
+#
+# No manual GitHub Actions deployment needed.
+
